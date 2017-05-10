@@ -1,39 +1,39 @@
 #EXTM3U
 
-#EXTINF:0,88FM
-http://31.168.228.113/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8?ttl=1485084599&cdn_token=d48fbc5e61773552ae206ea53fceb533
+#EXTINF:0,88 FM
+http://ibala.vidnt.com:8000/iba_radio-88fmM
 
-#EXTINF:0,Pervoe Radio 89.1FM  
-http://891fm.live.streamgates.net/891fm_live/main/icecast.audio
+#EXTINF:0,Pervoe Radio 89.1 FM  
+http://891fm.streamgates.net/891Fm
 
 #EXTINF:0,91FM
-http://91fm.live.streamgates.net/proxy/91fm_lev?mp=/91fmAudio
+http://91fm.streamgates.net/Lev91Fm
 
-#EXTINF:0,Kol Ha Musica - 91.3 FM
-http://82.80.192.28/iba_radio-kolmusicaBRepeat/_definst_/smil:radio-kolmusicaB.smil/playlist.m3u8?ttl=1485084856&cdn_token=3a5861e6551a98fff90065a91d462bd4
+#EXTINF:0,Kol Ha Musica 91.3 FM
+http://ibala.vidnt.com:8000/iba_radio-kolmusicaM
+
+#EXTINF:0,Reshet Aleph
+http://ibala.vidnt.com:8000/iba_radio-alephM
 
 #EXTINF:0,Reshet Bet 95.5 FM
-http://82.80.192.11/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/playlist.m3u8?ttl=1485095770&cdn_token=eb5ab1b73d6386a789a31c8d4183d89f
+http://ibala.vidnt.com:8000/iba_radio-betM
+
+#EXTINF:0,Reshet Gimel 97.8 FM
+http://ibala.vidnt.com:8000/iba_radio-gimelM
 
 #EXTINF:0,Radio Kol Rega 96 FM
 http://radio.96fm.co.il:8000/96fm
 
-#EXTINF:0,GLZ Radio (Galei Zahal) - 96.6FM
+#EXTINF:0,GLZ Radio (Galei Zahal) 96.6 FM
 http://glzwizzlv.bynetcdn.com/glz_mp3
 
-#EXTINF:0,Reshet Gimmel 97.8 FM
-http://31.168.228.113/iba_radio-gimelMRepeat/_definst_/smil:radio-gimelM.smil/playlist.m3u8?ttl=1485096315&cdn_token=1fda9cd7f1563c58f304db50a8d06267
-
-#EXTINF:0,Galgalatz 98.1FM
+#EXTINF:0,Galgalatz 98.1 FM
 http://glzicelv01.vds-is.bynetcdn.com/glglz.mp3
 
-#EXTINF:0,99FM
-http://ads11.livecdn.biz:80/99fm
-
-#EXTINF:0,99fm - Powered by Mediacast
+#EXTINF:0,Eco 99 FM
 http://99.livecdn.biz/99fm
 
-#EXTINF:0,99.5FM
+#EXTINF:0,99.5 FM
 http://46.4.41.68:8000/995fm
 
 #EXTINF:0,Radius 100 FM
@@ -55,7 +55,7 @@ http://213.8.143.168/100Oldies
 http://213.8.143.168/100Retro
 
 #EXTINF:0,Kol Israel Reka - Reka Radio 100.3 FM
-http://62.90.90.44/iba_radio-rekaMRepeat/_definst_/smil:radio-rekaM.smil/chunklist_w1847003145_b202000.m3u8?ttl=1485096997&cdn_token=9f8e042c4c2a96c0f8ddcb20e702108b
+http://ibala.vidnt.com:8000/iba_radio-rekaM
 
 #EXTINF:0,Radio Jerusalem 101FM
 http://101.cdnwz.net/101fm
@@ -78,7 +78,7 @@ http://106fm.livecdn.biz:7075/
 #EXTINF:0,IDC International Radio 106.2 FM
 http://194.153.101.160:8000/idc123.mp3
 
-#EXTINF:0,Radio Haifa 107.5
+#EXTINF:0,Radio Haifa 107.5 FM
 http://46.4.83.17/radiohaifa
 
 #EXTINF:0,109FM
@@ -95,9 +95,6 @@ http://radio-yasoo.ath.cx:7500/
 
 #EXTINF:0,Radio 5 Israel
 http://84.94.229.99:4312/
-
-#EXTINF:0,Beat Radio
-http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
 
 #EXTINF:0,Chillout - CROOZE
 http://77.92.64.44:8254/stream/
@@ -134,13 +131,6 @@ http://radio.ilcast.com:8000/live
 
 #EXTINF:0,Radio Eshel Hanassi
 http://stream.eshelnet.com/xstream
-
-#EXTINF:0,RadioezOrit
-http://wms01.video-streaming.co.il:8000/stream/1/
-
-#EXTINF:0,Radio Savta
-http://streaming.radionomy.com/Radio-Savta
-
 
 
 
