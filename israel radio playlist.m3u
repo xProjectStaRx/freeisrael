@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,88 FM
-http://ibala.vidnt.com:8000/iba_radio-88fmM
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM
 
 #EXTINF:0,Pervoe Radio 89.1 FM  
 http://891fm.streamgates.net/891Fm
@@ -10,16 +10,13 @@ http://891fm.streamgates.net/891Fm
 http://91fm.streamgates.net/Lev91Fm
 
 #EXTINF:0,Kol Ha Musica 91.3 FM
-http://ibala.vidnt.com:8000/iba_radio-kolmusicaM
-
-#EXTINF:0,Reshet Aleph
-http://ibala.vidnt.com:8000/iba_radio-alephM
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM
 
 #EXTINF:0,Reshet Bet 95.5 FM
-http://ibala.vidnt.com:8000/iba_radio-betM
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM
 
 #EXTINF:0,Reshet Gimel 97.8 FM
-http://ibala.vidnt.com:8000/iba_radio-gimelM
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM
 
 #EXTINF:0,Radio Kol Rega 96 FM
 http://radio.96fm.co.il:8000/96fm
@@ -55,7 +52,7 @@ http://213.8.143.168/100Oldies
 http://213.8.143.168/100Retro
 
 #EXTINF:0,Kol Israel Reka - Reka Radio 100.3 FM
-http://ibala.vidnt.com:8000/iba_radio-rekaM
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCrekaLAM
 
 #EXTINF:0,Radio Jerusalem 101FM
 http://101.cdnwz.net/101fm
