@@ -10,7 +10,7 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:0,Aruz 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
-#EXTINF:0,99 Aruz Knesset
+#EXTINF:0,Aruz Knesset 99
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
 #EXTINF:0,21 Arutz Hakniyot
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
