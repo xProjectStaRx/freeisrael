@@ -1,17 +1,36 @@
-#EXTM3U
+﻿#EXTM3U
+ 
 #EXTINF:0,iLand
 http://146.185.61.140:1935/ILAND/smil:iland.smil/chunklist_w897681157_b596000.m3u8
+
 #EXTINF:-1, Kan 11
 http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+
+#EXTINF:-1,Ch 12 Keshet
+http://31.168.246.217:9981/stream/channelid/1683812876
+#EXTINF:-1,Ch 13 Reshet
+http://31.168.246.217:9981/stream/channelid/1504208352
+
+#EXTINF:-1,Ch 12 Keshet Dune HD
+http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1683812876
+#EXTINF:-1,Ch 13 Reshet Dune HD
+http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://31.168.246.217:9981/stream/channelid/1504208352
+
+
 #EXTINF:-1,Keshet VOD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+
 #EXTINF:-1, Aruz 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:0,Aruz 20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/low/chunks.m3u8
-#EXTINF:0,Aruz Knesset 99
+#EXTINF:0,99 Aruz Knesset
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8 
 #EXTINF:0,21 Arutz Hakniyot
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+#EXTINF:0,23 Arutz Hinuhit
+http://langamepp.com/chtst/5ABBC7432AE6D66427F710696A3A0FDF6B8DF67B1AD3AA074FC52332035652
+#EXTINF:0,23 Arutz Hinuhit Dune HD
+http://ts://127.0.0.1:81/cgi-bin/flv.sh?http://langamepp.com/chtst/5ABBC7432AE6D66427F710696A3A0FDF6B8DF67B1AD3AA074FC52332035652
 #EXTINF:0,24 Music
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
